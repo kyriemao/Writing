@@ -1,2 +1,1 @@
-# Writing
-Writing Skills
+Record some academic writing skills
